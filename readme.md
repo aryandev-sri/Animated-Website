@@ -1,0 +1,2 @@
+# Animated-Website
+A dynamic, dual-layered cursor that scales and blurs as you interact with the page. Smooth entrance animations and scroll-triggered transitions. A sleek navbar that changes color and size upon scrolling. Interactive cards and images that react to mouse movement. An immersive hero section with an auto-playing background video. Fully optimized for various screen sizes using CSS Flexbox and Grid.
